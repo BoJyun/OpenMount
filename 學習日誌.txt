@@ -1,0 +1,5 @@
+A.建立superuser
+step:python manage.py migrate>>python manage.py createsuperuser
+
+B.models to admin
+step
